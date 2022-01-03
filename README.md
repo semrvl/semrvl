@@ -32,6 +32,8 @@
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
+  <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
+  <code><img title="Sequelize" height="25" src="images/sequelize.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
