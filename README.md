@@ -1,27 +1,24 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Artem....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Semenov+Artem....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/semartem/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
- 
-  <code><a href="https://www.instagram.com/sem.art.sem/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/semartem/" title="LinkedIn Profile"><img width="23" src="images/linkedin.svg"> LinkedIn</a></code>
+    <code><a href="https://t.me/SemArtSem" title="Telegram"><img width="23" src="images/telegram.png"> Telegram</a></code> 
+  <code><a href="https://www.instagram.com/sem.art.sem/" title="Instagram Profile"><img width="23" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
    💪 Hi, I'm Artem, Fullstack JS Developer 
   <br>
-  <br>
   💻  Currently working on PERN Stack
   <br>
   🤹🏽 Interested in WebDev and travel
   <br>
-  💬 Ask me anything about from <a href="https://t.me/SemArtSem" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://t.me/SemArtSem" title="Telegram">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: a.semenov989@gmail.com">a.semenov989@gmail.com</a>
 </p>
