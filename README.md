@@ -6,7 +6,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://t.me/SemArtSem" title="Telegram"><img width="30" src="images/telegram.png"> Telegram</a></code>
+    <a href="https://t.me/Semrvl" title="Telegram"><img width="30" src="images/telegram.png"> Telegram</a></code>
 </h5>
 <br>
 <p align="center">
