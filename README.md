@@ -1,10 +1,6 @@
-<h5 align="center">
-  <code>
-    <a href="https://t.me/Semrvl" title="Telegram"><img width="30" src="images/telegram.png"> Telegram</a></code>
-</h5>
 <br>
 <p align="center">
-  <h3>💪Hi! I`m Full stack software developer, specializing in React.js and Node.js.</h3> 
+  <h3>💪 Hi! I`m Full stack software developer, specializing in React.js and Node.js.</h3> 
   <br>
   <h3>🤹🏽 My hobbies: web development, yoga, hiking, traveling, high-tech technologies.</h3> 
   <br>
