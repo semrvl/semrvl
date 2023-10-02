@@ -1,29 +1,22 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Хааай!+👋;Меня+зовут+Артем;Я+Fullstack-разработчик!&center=true&size=28">
-  </a>
-</h1>
-
 <h5 align="center">
   <code>
-    <a href="https://t.me/Semrvl" title="Telegram"><img width="30" src="images/telegram.png"> Telegram</a></code>
+    <a href="https://t.me/Semrvl" title="Telegram"><img width="30" src="images/LinkedIn.png"> Telegram</a></code>
 </h5>
 <br>
 <p align="center">
-  <h3>💪 Привет! Меня зовут Артем и я Fullstack-разработчик.</h3> 
+  <h3>💪Hi! I`m Full stack software developer, specializing in React.js and Node.js.</h3> 
   <br>
-  <h3> 💻  Работаю на стеке PERN (PostgreSQL, Express, React, Node.js).</h3> 
+  <h3>🤹🏽 My hobbies: web development, yoga, hiking, traveling, high-tech technologies.</h3> 
   <br>
-  <h3>🤹🏽 Мои увлечения: web-разработка, занятия йогой, хайкинг, путешествия, хайтек технологии.</h3> 
-  <br>
-  <h3>💬 Как связаться: <a href="https://t.me/SemArtSem" title="Telegram">Telegram</a></h3> 
+  <h3>💬 How to contact me: <a href="https://t.me/Semrvl" title="Telegram">Telegram</a></h3>  <a href="https://www.linkedin.com/in/semartem/" title="LinkedIn">LinkedIn</a></h3>
 </p>
 
 <hr>
-<h2 align="center">🔥 Языки, фреймворки и инструменты 🔥</h2>
+<h2 align="center">🔥 Languages, frameworks and tools 🔥</h2>
 <br>
 <p align="center">
   <code><img title="Javascript" height="27" src="images/javascript.svg"></code>
+  <code><img title="Typescript" height="27" src="images/typescript.svg"></code>
   <code><img title="HTML5" height="27" src="images/html5.svg"></code>
   <code><img title="CSS" height="27" src="images/css.svg"></code>
   <code><img title="React" height="27" src="images/react-original.svg"></code>
@@ -39,10 +32,3 @@
   <code><img title="Beekeeper" height="27" src="images/beekeeper.png"></code>
 </p>
 <hr>
-
-<details>
-  <summary>:zap: Статистика ⚡</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semart989&langs_count=8&layout=compact&theme=radical" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Semart989&show_icons=true&theme=radical" />
-</details>
