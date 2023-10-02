@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <h3>💪 Hi! I`m Full stack software developer, specializing in React.js and Node.js.</h3> 
+  <h3>💪 Hi! My name is Artem. I`m Full stack software developer, specializing in React.js and Node.js.</h3> 
   <br>
   <h3>🤹🏽 My hobbies: web development, yoga, hiking, traveling, high-tech technologies.</h3> 
   <br>
