@@ -17,7 +17,7 @@
 <br>
 <p align="center">
   <code><img title="Javascript" height="27" src="images/javascript.svg"></code>
-  <code><img title="Typescript" height="27" src="images/typescript.svg"></code>
+  <code><img title="Typescript" height="27" src="images/typescript.png"></code>
   <code><img title="HTML5" height="27" src="images/html5.svg"></code>
   <code><img title="CSS" height="27" src="images/css.svg"></code>
   <code><img title="React" height="27" src="images/react-original.svg"></code>
