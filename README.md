@@ -8,7 +8,8 @@
   <br>
   <h3>🤹🏽 My hobbies: web development, yoga, hiking, traveling, high-tech technologies.</h3> 
   <br>
-  <h3>💬 How to contact me: <a href="https://t.me/Semrvl" title="Telegram">Telegram</a></h3>  <a href="https://www.linkedin.com/in/semartem/" title="LinkedIn">LinkedIn</a></h3>
+  <h3>💬 How to contact me:</h3>
+  <h3><a href="https://t.me/Semrvl" title="Telegram">Telegram</a></h3>  <h3><a href="https://www.linkedin.com/in/semartem/" title="LinkedIn">LinkedIn</a></h3>
 </p>
 
 <hr>
