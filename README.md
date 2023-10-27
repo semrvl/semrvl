@@ -2,8 +2,6 @@
 <p align="center">
   <h3>💪 Hi! My name is Artem. I`m Full stack software developer, specializing in React.js and Node.js.</h3> 
   <br>
-  <h3>🤹🏽 My hobbies: web development, yoga, hiking, traveling, high-tech technologies.</h3> 
-  <br>
   <h3>💬 How to contact me:</h3>
   <h3><a href="https://t.me/Semrvl" title="Telegram">Telegram</a></h3>  <h3><a href="https://www.linkedin.com/in/semartem/" title="LinkedIn">LinkedIn</a></h3>
 </p>
