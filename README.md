@@ -1,29 +1,4 @@
-<br>
-<p align="center">
-  <h3>💪 Hi! My name is Artem. I`m Full stack software developer, specializing in React.js and Node.js.</h3> 
-  <br>
-  <h3>💬 How to contact me:</h3>
-  <h3><a href="https://t.me/Semrvl" title="Telegram">Telegram</a></h3>  <h3><a href="https://www.linkedin.com/in/semartem/" title="LinkedIn">LinkedIn</a></h3>
-</p>
-
-<hr>
-<h2 align="center">🔥 Languages, frameworks and tools 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="Javascript" height="27" src="images/javascript.svg"></code>
-  <code><img title="Typescript" height="27" src="images/typescript-2.svg"></code>
-  <code><img title="HTML5" height="27" src="images/html5.svg"></code>
-  <code><img title="CSS" height="27" src="images/css.svg"></code>
-  <code><img title="React" height="27" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="27" src="images/redux.svg"></code>
-  <code><img title="Node.js" height="27" src="images/nodejs.svg"></code>
-  <code><img title="Sequelize ORM" height="27" src="images/sequelize.svg"></code>
-  <code><img title="PostgreSQL" height="27" src="images/postgresql.svg"></code>
-  <code><img title="JSON" height="27" src="images/json.svg"></code>
-  <code><img title="npm" height="27" src="images/npm.svg"></code>
-  <code><img title="Git" height="27" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="27" src="images/github.svg"></code>
-  <code><img title="Visual Studio Code" height="27" src="images/vscode.png"></code>
-  <code><img title="Beekeeper" height="27" src="images/beekeeper.png"></code>
-</p>
-<hr>
+<h1 align="center">Привет! 👋 Меня зовут Артем</h1> <h3 align="center">Full Stack Software Developer</h3> <p align="center">Я специализируюсь на <b>React.js</b> и <b>Node.js</b>, разрабатываю высококачественные веб-приложения с упором на производительность и современный стек технологий.</p>
+<h2 align="center">🚀 Навыки и технологии</h2> <p align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/> <img src="https://img.shields.io/badge/VSCode-0078d4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/> </p>
+<h2 align="center">📫 Связаться со мной</h2> <p align="center"> <a href="https://t.me/Semrvl" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/semartem/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> </p>
+<h2 align="center">🔥 Портфолио и проекты 🔥</h2> <p align="center">На данный момент я предоставляю примеры своих проектов по запросу. Пишите мне в <b>Telegram</b> или <b>LinkedIn</b>, если хотите узнать больше или обсудить потенциальное сотрудничество!</p>
