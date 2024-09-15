@@ -10,4 +10,8 @@
 
 ---
 
-<h2 align="center">🔥 Portfolio & Projects 🔥</h2> <p align="center">Currently, I provide project samples upon request. Feel free to reach out via <b>Telegram</b> or <b>LinkedIn</b> if you'd like to learn more or discuss potential collaboration!</p>
+<h2 align="center">🔥 Portfolio & Projects 🔥</h2> <p align="center">Currently, I provide project samples upon request. Feel free to reach out via <b>Telegram</b> or <b>LinkedIn</b> if you'd like to learn more or discuss potential collaboration! </p>
+
+---
+
+<p align="center"> <img src="https://camo.githubusercontent.com/a17822355cf2dd10906362ef246cabca034d7405295b81d55f7cd48450d08a0d/68747470733a2f2f36382e6d656469612e74756d626c722e636f6d2f66653139356539646237623636613732393139346134333337306132313739352f74756d626c725f6f6a613668316639304331727a737335366f315f3530302e676966" alt="CatCoder"/> </p>
