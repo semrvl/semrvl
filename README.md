@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋 I'm Artem</h1> <h3 align="center">Full Stack Software Developer</h3> <p align="center">I specialize in <b>React.js</b> and <b>Node.js</b>, building high-quality web applications with a focus on performance and modern technology stack.</p>
+<h1 align="center">Hello! 👋 I'm Artem</h1> <h3 align="center">Full Stack Software Developer</h3>  <h4 align="center">👨‍💻 Open to work!</h4>  <p align="center">I specialize in <b>React.js</b> and <b>Node.js</b>, building high-quality web applications with a focus on performance and modern technology stack.</p>
 
 ---
 
